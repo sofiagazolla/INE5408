@@ -1,6 +1,5 @@
-// Copyright [2022] <Sofia Gazolla da Costa Silva>
+// Copyright [2025] <Sofia Gazolla da Costa Silva>
 #include <string>
-
 
 class Aluno {
  public:
