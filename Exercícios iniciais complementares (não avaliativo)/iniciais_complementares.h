@@ -1,5 +1,6 @@
 // Copyright [2025] <Sofia Gazolla da Costa Silva>
 
+
 /*
 (1) o cálculo do menor valor:
 Exemplo:
